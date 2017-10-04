@@ -1,0 +1,24 @@
+{
+  "name": "SteemKey",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "SteemKey",
+  "icons": {
+    "16": "images/skey16.png",
+     "48": "images/skey128.png",
+    "128": "images/skey128.png"
+   
+  },
+
+  "browser_action": {
+    "default_icon": {
+       "16": "images/skey16.png",
+     "48": "images/skey128.png",
+    "128": "images/skey128.png"
+    },
+    "default_title": "SteemKey",
+    "default_popup": "popup.html"
+  }
+
+  
+}
